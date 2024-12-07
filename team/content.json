@@ -1,0 +1,17 @@
+{
+    "header": {
+        "logo": "assets/emblem.png",
+        "links": [
+            { "name": "Goal 1", "href": "#goal1" },
+            { "name": "Goal 2", "href": "#goal2" },
+            { "name": "Goal 3", "href": "#goal3" },
+            { "name": "Form", "href": "#form" },
+            { "name": "About Us", "href": "#about-us" }
+        ],
+        "button": "Replace"
+    },
+    "footer": {
+        "left": "Copyright",
+        "right": ["Socials", "About Us", "Contact", "Address"]
+    }
+}

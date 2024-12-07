@@ -1,0 +1,36 @@
+{
+    "team": [
+        {
+        "name": "Thiago",
+        "bio": "",
+        "role": "",
+        "contributions": "",
+        "imageURL":"assets/placeholder.jpg",
+        "alt": ""
+        },
+        {
+        "name": "Alex",
+        "bio": "",
+        "role": "",
+        "contributions": "",
+        "imageURL":"assets/placeholder.jpg",
+        "alt": ""
+        },
+        {
+        "name": "Conrad",
+        "bio": "",
+        "role": "",
+        "contributions": "",
+        "imageURL":"assets/placeholder.jpg",
+        "alt": ""
+        },
+        {
+        "name": "Kamil",
+        "bio": "",
+        "role": "",
+        "contributions": "",
+        "imageURL":"assets/placeholder.jpg",
+        "alt": ""
+        }
+    ]
+}
