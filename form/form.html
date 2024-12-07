@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <meta name="author" content="Alexander Tran">
+    <link rel="stylesheet" href="form.css">
+    <script src="form.js" defer></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul id="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="goal-1.html">Goal 1</a></li>
+                <li><a href="goal-2.html">Goal 2</a></li>
+                <li><a href="goal-3.html">Goal 3</a></li>
+                <li><a href="form.html" class="active">Form</a></li>
+                <li><a href="about.html">About Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="title-box">
+            <h1>Sign up to our Newsletters</h1>
+        </section>
+
+        <section class="form-box">
+            <form id="myForm" method="post" action="/contact">
+                <label for="first-name">First Name</label>
+                <input type="text" id="first-name" name="firstName" required>
+
+                <label for="last-name">Last Name</label>
+                <input type="text" id="last-name" name="lastName" required>
+
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="comments">Comments</label>
+                <textarea id="comments" name="comments" placeholder="Queries or additional comments"></textarea>
+
+                <button type="submit">Sign Up</button>
+            </form>
+
+           
+        <p id="response-message" class="required-field"></p>
+
+        </section>
+    </main>
+
+    <footer>
+        <section class="footer-content">
+            <ul class="left">
+                <li>Copyright © Our Website 2024</li>
+            </ul>
+            <ul class="right">
+                <li>Socials:</li>
+                <li><a href="about.html">About Us</a></li>
+                <li>Contact: Fake phone number here</li>
+                <li>Address:</li>
+            </ul>
+        </section>
+    </footer>
+</body>
+</html>
