@@ -1,0 +1,27 @@
+{
+    "title": "No Poverty",
+    "sections": [
+        {
+            "heading": "Objective",
+            "text": "End poverty in all its forms everywhere.",
+            "image": "asset/poverty1.jpg",
+            "alt": "Objective"
+        },
+        {
+            "heading": "Reason",
+            "text": "Poverty is an issue that affects over 700 million people worldwide, limiting access to basic human needs such as food, shelter, and education. It weakens economies and leads to social instability. Without action, it creates cycles of deprivation, which become difficult to break and disproportionately affect groups such as women, children, and people in rural areas.",
+            "image": "asset/poverty2.jpg",
+            "alt": "Reason"
+        },
+        {
+            "heading": "Key Action",
+            "text": [
+                "1. Develop and implement social protection systems such as insurance schemes to protect the poor and vulnerable.",
+                "2. Support job creation and sustainable economic growth especially in rural areas by providing access to microfinance and foster entrepreneurship.",
+                "3. Strengthen resilience to climate related and economic shocks especially in disaster prone and low income regions."
+            ],
+            "image": "asset/poverty3.jpg",
+            "alt": "Key Action"
+        }
+    ]
+}

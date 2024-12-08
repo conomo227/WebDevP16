@@ -1,0 +1,27 @@
+{
+    "title": "Clean Water",
+    "sections": [
+        {
+            "heading": "Objective",
+            "text": "Availability and sustainable management of water and sanitation for all.",
+            "image": "asset/water1.jpg",
+            "alt": "Objective"
+        },
+        {
+            "heading": "Reason",
+            "text": "Access to clean water and sanitation is crucial for health, hygiene and economic development. Currently 2 billion people lack access to safe drinking water and over 3.6 billion lack safely managed sanitation. Unsafe water and poor sanitation are major causes of diseases such as diarrhea, which kills hundreds of thousands of children annually. In addition, water scarcity and pollution undermine agriculture, industry and ecosystems threatening food security and biodiversity.",
+            "image": "asset/poverty2.jpg",
+            "alt": "Reason"
+        },
+        {
+            "heading": "Key Action",
+            "text": [
+                "1. Access to Safe Water: Provides access to safe and affordable drinking water.",
+                "2. Sanitation Facilities: Improve hygiene practices and sanitation facilities especially in rural areas.",
+                "3. Water Management: Promote sustainable water management practices to protect the water resources."
+            ],
+            "image": "asset/poverty3.jpg",
+            "alt": "Key Action"
+        }
+    ]
+}
