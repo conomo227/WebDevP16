@@ -14,38 +14,38 @@
       {
         "className": "teamservice",
         "title": "Thiago",
-        "bio": "Biography: This is a bio",
-        "role": "Role: ",
-        "contribution": "Contribution: ",
+        "bio": "Biography: 23 Years old, Brazilian",
+        "role": "Role: Fullstack Developer",
+        "contribution": "Contribution: Home Page",
         "image": "assets/placeholder.jpg",
-        "alt": ""
+        "alt": "A picture of Thiago"
       },
       {
         "className": "teamservice",
         "title": "Alex",
-        "bio": "Biography: This is a bio",
-        "role": "Role: ",
-        "contribution": "Contribution: ",
+        "bio": "Biography: 18 Years old, Vietnamese",
+        "role": "Role: Fullstack Developer",
+        "contribution": "Contribution: Form Page",
         "image": "assets/placeholder.jpg",
-        "alt": ""
+        "alt": "A picture of Alex"
       },
       {
         "className": "teamservice",
         "title": "Conrad",
-        "bio": "Biography: This is a bio",
-        "role": "Role: ",
-        "contribution": "Contribution: ",
+        "bio": "Biography: 18 Years old, Nigerian",
+        "role": "Role: Fullstack Developer",
+        "contribution": "Contribution: About Us Page",
         "image": "assets/placeholder.jpg",
-        "alt": ""
+        "alt": "A picture of Conrad"
       },
       {
         "className": "teamservice",
         "title": "Kamil",
-        "bio": "Biography: This is a bio",
-        "role": "Role: ",
-        "contribution": "Contribution: ",
+        "bio": "Biography: 19 Years old, Polish",
+        "role": "Role: Fullstack Developer",
+        "contribution": "Contribution: Goal Pages",
         "image": "assets/placeholder.jpg",
-        "alt": ""
+        "alt": "A picture of Kamil"
       }
     ],
     "footer": {
