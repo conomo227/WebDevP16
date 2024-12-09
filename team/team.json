@@ -2,35 +2,35 @@
     "team": [
         {
         "name": "Thiago",
-        "bio": "",
-        "role": "",
-        "contributions": "",
+        "bio": "23 Years old, Brazilian",
+        "role": "Fullstack Developer",
+        "contributions": "Home Page",
         "imageURL":"assets/placeholder.jpg",
-        "alt": ""
+        "alt": "A picture of Thiago"
         },
         {
         "name": "Alex",
-        "bio": "",
-        "role": "",
-        "contributions": "",
+        "bio": "18 Years old, Vietnamese",
+        "role": "Fullstack Developer",
+        "contributions": "Form Page",
         "imageURL":"assets/placeholder.jpg",
-        "alt": ""
+        "alt": "A picture of Alex"
         },
         {
         "name": "Conrad",
-        "bio": "",
-        "role": "",
-        "contributions": "",
+        "bio": "18 Years old, Nigerian",
+        "role": "Fullstack Developer",
+        "contributions": "About Us Page",
         "imageURL":"assets/placeholder.jpg",
-        "alt": ""
+        "alt": "A picture of Conrad"
         },
         {
         "name": "Kamil",
-        "bio": "",
-        "role": "",
-        "contributions": "",
+        "bio": "19 Years old, Polish",
+        "role": "Fullstack Developer",
+        "contributions": "Goal Pages",
         "imageURL":"assets/placeholder.jpg",
-        "alt": ""
+        "alt": "A picture of Kamil"
         }
     ]
 }
