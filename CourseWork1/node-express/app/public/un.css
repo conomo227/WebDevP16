@@ -1,0 +1,409 @@
+@viewport {
+  width: device-width;
+}
+article h3 {
+  text-align: center;
+}
+.indexImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.logo {
+  width: 5%;
+  height: 5px;
+}
+body {
+  font-family: sans-serif, Arial;
+  color: black;
+  background-color: #eff4f7;
+  font-size: 16px;
+  line-height: 1.5;
+}
+header {
+  background-color: #8ac926;
+  height: 100px;
+  color: black;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+header h1 {
+  padding: 16px;
+  line-height: 200%;
+}
+section h1 {
+  text-align: center;
+  font-size: 30px;
+}
+nav {
+  text-align: center;
+  padding: 8px;
+  height: 50px;
+  margin-bottom: 50px;
+}
+p {
+  text-align: center;
+}
+nav ul li {
+  text-decoration: none;
+  padding-bottom: 15px;
+  padding-top: 25px;
+  display: inline;
+}
+nav ul li a {
+  padding: 30px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #000000;
+}
+
+a:hover {
+  color: #000;
+  background-color: #82f399;
+  text-decoration: underline;
+}
+a:visited {
+  color: #000000;
+}
+main {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 16px;
+  border: 2px;
+  border-color: #a6a0ba;
+  border-radius: 20px;
+  overflow: auto;
+  border: solid 2px;
+}
+section {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #c9f780;
+  padding-top: 30px;
+  overflow: scroll;
+}
+.services img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.services {
+  display: inline-block;
+  width: 70%;
+  height: 500px;
+  background-color: white;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-left: 11px;
+  padding-right: 11px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  border: solid 10px;
+  padding: 20px;
+}
+.services1 {
+  float: right;
+  width: 70%;
+  height: 500px;
+  background-color: white;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-left: 11px;
+  padding-right: 11px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  border: solid 10px;
+  padding: 20px;
+  align-self: flex-end;
+}
+.services2 {
+  float: left;
+  width: 70%;
+  height: 500px;
+  background-color: white;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-left: 11px;
+  padding-right: 11px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  border: solid 10px;
+  padding: 20px;
+}
+
+footer {
+  background-color: #c9f780;
+  font-size: 0.9em;
+  text-align: center;
+  color: #000;
+  padding: 16px;
+  margin-top: 32px;
+}
+footer > a:link {
+  color: #000;
+  text-decoration: none;
+}
+footer > a.visited {
+  color: #fff;
+}
+footer > a.hover {
+  color: #ffff;
+}
+p:has(.btn) {
+  text-align: center;
+}
+.active {
+  border-bottom: 3px solid #32312f;
+}
+.abc {
+  display: none;
+}
+
+main {
+  text-align: center;
+  margin: 20px;
+}
+
+/* Water page specific css */
+.headerwater {
+  background-color: #00b3dc;
+  height: 100px;
+  color: black;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.watercontent {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #00b3dc;
+  padding-top: 30px;
+  overflow: scroll;
+}
+.waterfooter {
+  background-color: #00b3dc;
+  font-size: 0.9em;
+  text-align: center;
+  color: #000;
+  padding: 16px;
+  margin-top: 32px;
+}
+/* Health page css */
+.healthwater {
+  background-color: #c9f780;
+  height: 100px;
+  color: black;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.healthcontent {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #c9f780;
+  padding-top: 30px;
+  overflow: scroll;
+}
+.healthfooter {
+  background-color: #c9f780;
+  font-size: 0.9em;
+  text-align: center;
+  color: #000;
+  padding: 16px;
+  margin-top: 32px;
+}
+/* Health page css */
+/* Poverty page css */
+.headerpoverty {
+  background-color: #ea4949;
+  height: 100px;
+  color: black;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.healthpoverty {
+  background-color: #ea4949;
+  height: 100px;
+  color: black;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.povertycontent {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ea4949;
+  padding-top: 30px;
+  overflow: scroll;
+}
+.povertyfooter {
+  background-color: #ea4949;
+  font-size: 0.9em;
+  text-align: center;
+  color: #000;
+  padding: 16px;
+  margin-top: 32px;
+}
+/* Poverty page css */
+/* form page css */
+.form-box {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+form label {
+  font-weight: bold;
+  color: #333;
+}
+
+form input,
+form textarea {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #1982c4;
+  border-radius: 5px;
+}
+
+form button {
+  padding: 10px;
+  background-color: #8ac926;
+  color: white;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+form button:hover {
+  background-color: #8ac926;
+}
+/* form page css */
+/* Team page css */
+.teamservice {
+  display: inline-grid;
+  width: 40%;
+  height: 30%;
+  justify-content: center;
+  background-color: white;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-left: 11px;
+  padding-right: 11px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  border: solid 10px;
+  padding: 20px;
+}
+@media only screen and (max-width: 786px) {
+  .abc {
+    float: right;
+    display: block;
+    background-color: #7f869a;
+    padding: 2%;
+    opacity: 0.5;
+  }
+  header h1 {
+    display: inline-block;
+    line-height: 50%;
+  }
+  header {
+    height: 18vh;
+  }
+  nav ul li {
+    display: block;
+    padding: 10px;
+    font-size: small;
+  }
+  nav {
+    position: absolute;
+    right: 10px;
+    top: 20px;
+  }
+  .services {
+    width: 92%;
+    background-color: white;
+    padding: 24px 11px;
+    margin: auto auto 20px 15px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+  }
+  .services1 {
+    width: 92%;
+    background-color: white;
+    padding: 24px 11px;
+    margin: auto auto 20px 15px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+  }
+  .services2 {
+    width: 92%;
+    background-color: white;
+    padding: 24px 11px;
+    margin: auto auto 20px 15px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+  }
+  .ulnav {
+    height: 0;
+    overflow: hidden;
+  }
+  .shownav {
+    height: 300px;
+    overflow: visible;
+  }
+}
+
+.blue {
+  color: dodgerblue;
+}

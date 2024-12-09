@@ -1,0 +1,49 @@
+{
+  "headerTitle": "UN Sustainable Goals",
+  "navItems": [
+    { "text": "Home", "link": "index.html" },
+    { "text": "No Poverty", "link": "Poverty.html" },
+    { "text": "Health", "link": "Health.html" },
+    { "text": "Clean-Water", "link": "Water.html" },
+    { "text": "Teams", "link": "team.html" },
+    { "text": "Form", "link": "form.html" }
+  ],
+  "main": {
+    "title": "Sign up to our Newsletters",
+    "formFields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "id": "first-name",
+        "name": "firstName",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "id": "last-name",
+        "name": "lastName",
+        "required": true
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "id": "email",
+        "name": "email",
+        "required": true
+      },
+      {
+        "label": "Comments",
+        "type": "textarea",
+        "id": "comments",
+        "name": "comments",
+        "placeholder": "Queries or additional comments"
+      }
+    ],
+    "submitButton": "Sign Up"
+  },
+  "footer": {
+    "text": "Copyright 2024 Sustainability",
+    "email": "sustainability@gmail.com"
+  }
+}

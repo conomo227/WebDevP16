@@ -1,0 +1,56 @@
+{
+  "headerTitle": "UN Sustainable Goals",
+  "navItems": [
+    { "text": "Home", "link": "index.html" },
+    { "text": "No Poverty", "link": "Poverty.html" },
+    { "text": "Health", "link": "Health.html" },
+    { "text": "Clean-Water", "link": "Water.html" },
+    { "text": "Teams", "link": "team.html" },
+    { "text": "Form", "link": "form.html" }
+  ],
+  "mainContent": {
+    "title": "Team",
+    "articles": [
+      {
+        "className": "teamservice",
+        "title": "Thiago",
+        "bio": "Biography: This is a bio",
+        "role": "Role: ",
+        "contribution": "Contribution: ",
+        "image": "assets/placeholder.jpg",
+        "alt": ""
+      },
+      {
+        "className": "teamservice",
+        "title": "Alex",
+        "bio": "Biography: This is a bio",
+        "role": "Role: ",
+        "contribution": "Contribution: ",
+        "image": "assets/placeholder.jpg",
+        "alt": ""
+      },
+      {
+        "className": "teamservice",
+        "title": "Conrad",
+        "bio": "Biography: This is a bio",
+        "role": "Role: ",
+        "contribution": "Contribution: ",
+        "image": "assets/placeholder.jpg",
+        "alt": ""
+      },
+      {
+        "className": "teamservice",
+        "title": "Kamil",
+        "bio": "Biography: This is a bio",
+        "role": "Role: ",
+        "contribution": "Contribution: ",
+        "image": "assets/placeholder.jpg",
+        "alt": ""
+      }
+    ],
+    "footer": {
+      "text": "Copyright 2024 Sustainability",
+      "email": "sustainability@gmail.com"
+    }
+  }
+}

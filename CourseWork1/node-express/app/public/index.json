@@ -1,0 +1,42 @@
+{
+  "headerTitle": "UN Sustainable Goals",
+  "navItems": [
+    { "text": "Home", "link": "index.html" },
+    { "text": "No Poverty", "link": "Poverty.html" },
+    { "text": "Health", "link": "Health.html" },
+    { "text": "Clean-Water", "link": "Water.html" },
+    { "text": "Teams", "link": "team.html" },
+    { "text": "Form", "link": "form.html" }
+  ],
+  "mainContent": {
+    "title": "UN Goals",
+    "description": "The goal of this website is to present solutions to three sustainability problems, these problems being Poverty, polluted water, and bad health and well-being.",
+    "articles": [
+      {
+        "className": "services2",
+        "title": "No Poverty",
+        "image": "assets/cropsImg.jpeg",
+        "altText": "Image of crops being harvested",
+        "content": "Eradicating extreme poverty for all people everywhere by 2030 is a pivotal goal of the 2030 Agenda for Sustainable Development. Extreme poverty, defined as surviving on less than $2.15 per person per day at 2017 purchasing power parity, has witnessed remarkable declines over recent decades."
+      },
+      {
+        "className": "services1",
+        "title": "Clean Water and Sanitation",
+        "image": "assets/water.jpeg",
+        "altText": "Clean water being used",
+        "content": "Access to safe water, sanitation, and hygiene is the most basic human need for health and well-being. Billions of people will lack access to these basic services in 2030 unless progress quadruples. Demand for water is rising owing to rapid population growth, urbanization, and increasing water needs from agriculture, industry, and energy sectors."
+      },
+      {
+        "className": "services2",
+        "title": "Health and well-being",
+        "image": "assets/vaccination.jpeg",
+        "altText": "Boy being vaccinated",
+        "content": "Great strides have been made in improving people’s health in recent years. 146 out of 200 countries or areas have already met or are on track to meet the SDG target on under-5 mortality. Effective HIV treatment has cut global AIDS-related deaths by 52 per cent since 2010 and at least one neglected tropical disease has been eliminated in 47 countries."
+      }
+    ]
+  },
+  "footer": {
+    "text": "Copyright 2024 Sustainability",
+    "email": "sustainability@gmail.com"
+  }
+}

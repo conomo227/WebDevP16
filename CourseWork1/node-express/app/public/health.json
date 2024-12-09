@@ -1,0 +1,45 @@
+{
+  "headerTitle": "UN Sustainable Goals",
+  "navItems": [
+    { "text": "Home", "link": "index.html" },
+    { "text": "No Poverty", "link": "Poverty.html" },
+    { "text": "Health", "link": "Health.html" },
+    { "text": "Clean-Water", "link": "Water.html" },
+    { "text": "Teams", "link": "team.html" },
+    { "text": "Form", "link": "form.html" }
+  ],
+  "mainContent": {
+    "title": "Health",
+    "articles": [
+      {
+        "className": "services",
+        "title": "Objective",
+        "content": "Ensure healthy lives and promote well-being for all at all ages.",
+        "image": "assets/health1.jpg",
+        "altText": "Objective"
+      },
+      {
+        "className": "services",
+        "title": "Reason",
+        "content": "Health is fundamental to human development. Poor health reduces individual productivity, burdens healthcare systems and shortens the life expectancy. Globally, millions of lives are lost each year to preventable causes like infectious diseases, materal complications and non-communicable diseases like diabetes and heart conditions. Inadequate healthcare access in addition to pandemics, the mental health crises and environmental factors cause a further decline in general health.",
+        "image": "assets/health2.jpg",
+        "altText": "Reason"
+      },
+      {
+        "className": "services",
+        "title": "Key Action",
+        "content": [
+          "1. Universal Health Coverage: This would provide access to quality health essentials for everyone.",
+          "2. Mental Health: Increase awareness and support about mental health by investing in mental healthcare infrastructure.",
+          "3. Reduce materal, newborn and child mortality through better prenatal and postnatal care and immunisation programs."
+        ],
+        "image": "assets/health3.jpg",
+        "altText": "Key Action"
+      }
+    ]
+  },
+  "footer": {
+    "text": "Copyright 2024 Sustainability",
+    "email": "sustainability@gmail.com"
+  }
+}

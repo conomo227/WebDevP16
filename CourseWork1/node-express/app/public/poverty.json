@@ -1,0 +1,45 @@
+{
+  "headerTitle": "UN Sustainable Goals",
+  "navItems": [
+    { "text": "Home", "link": "index.html" },
+    { "text": "No Poverty", "link": "Poverty.html" },
+    { "text": "Health", "link": "Health.html" },
+    { "text": "Clean-Water", "link": "Water.html" },
+    { "text": "Teams", "link": "team.html" },
+    { "text": "Form", "link": "form.html" }
+  ],
+  "mainContent": {
+    "title": "No Poverty",
+    "articles": [
+      {
+        "className": "services",
+        "title": "Objective",
+        "content": "End poverty in all its forms everywhere.",
+        "image": "assets/poverty1.jpg",
+        "altText": "Objective"
+      },
+      {
+        "className": "services",
+        "title": "Reason",
+        "content": "Poverty is an issue that affects over 700 million people worldwide, limiting access to basic human needs such as food, shelter, and education. It weakens economies and leads to social instability. Without action, it creates cycles of deprivation, which become difficult to break and disproportionately affect groups such as women, children, and people in rural areas.",
+        "image": "assets/poverty2.jpg",
+        "altText": "Reason"
+      },
+      {
+        "className": "services",
+        "title": "Key Action",
+        "content": [
+          "1. Develop and implement social protection systems such as insurance schemes to protect the poor and vulnerable.",
+          "2. Support job creation and sustainable economic growth especially in rural areas by providing access to microfinance and foster entrepreneurship.",
+          "3. Strengthen resilience to climate related and economic shocks especially in disaster prone and low income regions."
+        ],
+        "image": "assets/poverty3.jpg",
+        "altText": "Key Action"
+      }
+    ]
+  },
+  "footer": {
+    "text": "Copyright 2024 Sustainability",
+    "email": "sustainability@gmail.com"
+  }
+}

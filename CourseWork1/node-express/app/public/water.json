@@ -1,0 +1,45 @@
+{
+  "headerTitle": "UN Sustainable Goals",
+  "navItems": [
+    { "text": "Home", "link": "index.html" },
+    { "text": "No Poverty", "link": "Poverty.html" },
+    { "text": "Health", "link": "Health.html" },
+    { "text": "Clean-Water", "link": "Water.html" },
+    { "text": "Teams", "link": "team.html" },
+    { "text": "Form", "link": "form.html" }
+  ],
+  "mainContent": {
+    "title": "Clean Water",
+    "articles": [
+      {
+        "className": "services",
+        "title": "Objective",
+        "content": "Availability and sustainable management of water and sanitation for all.",
+        "image": "assets/water1.jpg",
+        "altText": "Objective"
+      },
+      {
+        "className": "services",
+        "title": "Reason",
+        "content": "Access to clean water and sanitation is crucial for health, hygiene and economic development. Currently 2 billion people lack access to safe drinking water and over 3.6 billion lack safely managed sanitation. Unsafe water and poor sanitation are major causes of diseases such as diarrhea, which kills hundreds of thousands of children annually. In addition, water scarcity and pollution undermine agriculture, industry and ecosystems threatening food security and biodiversity.",
+        "image": "assets/poverty2.jpg",
+        "altText": "Reason"
+      },
+      {
+        "className": "services",
+        "title": "Key Action",
+        "content": [
+          "1. Access to Safe Water: Provides access to safe and affordable drinking water.",
+          "2. Sanitation Facilities: Improve hygiene practices and sanitation facilities especially in rural areas.",
+          "3. Water Management: Promote sustainable water management practices to protect the water resources."
+        ],
+        "image": "assets/poverty3.jpg",
+        "altText": "Key Action"
+      }
+    ]
+  },
+  "footer": {
+    "text": "Copyright 2024 Sustainability",
+    "email": "sustainability@gmail.com"
+  }
+}
